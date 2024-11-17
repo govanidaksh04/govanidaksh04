@@ -40,13 +40,6 @@
   <br/>
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=govanidaksh" alt="Codeforces Stats">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=govanidaksh04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=govanidaksh04&theme=radical&hide_border=true" alt="GitHub Streak">
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govanidaksh04&theme=rogue" alt="Activity Graph">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govanidaksh04&theme=radical&hide_border=true&layout=compact" alt="Top Languages">
 </div>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
