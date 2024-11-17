@@ -34,6 +34,21 @@
 	<a href="https://leetcode.com/govanidaksh/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	<a href="https://www.codechef.com/users/govanidaksh"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 
+ <h2 align="center">🔥 Dynamic Stats 🔥</h2>
+<div align="center">
+  <img src="https://leetcode.card.workers.dev/govanidaksh?theme=dark&font=source_code_pro&extension=activity" alt="LeetCode Stats">
+  <br/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=govanidaksh" alt="Codeforces Stats">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=govanidaksh04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=govanidaksh04&theme=radical&hide_border=true" alt="GitHub Streak">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govanidaksh04&theme=rogue" alt="Activity Graph">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govanidaksh04&theme=radical&hide_border=true&layout=compact" alt="Top Languages">
+</div>
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:govanidaksh@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
