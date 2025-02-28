@@ -36,7 +36,7 @@
 
  <h2 align="center">🔥 Dynamic Stats 🔥</h2>
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/govanidaksh?theme=dark&font=source_code_pro&extension=activity" alt="LeetCode Stats">
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
   <br/>
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=govanidaksh" alt="Codeforces Stats">
   <br/>
